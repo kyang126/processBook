@@ -1,0 +1,219 @@
+/**
+ * Parallax Scrolling Tutorial
+ * For NetTuts+
+ *  
+ * Author: Mohiuddin Parekh
+ *	http://www.mohi.me
+ * 	@mohiuddinparekh   
+ */
+
+
+body{
+	margin:0;
+	padding:0;
+}
+
+
+#home { 
+	background: url(http://upload.wikimedia.org/wikipedia/commons/8/80/University_of_Washington_Quad,_Spring_2007.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;  
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+#about { 
+	background: url(../images/about.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#firstMeeting { 
+	background: url(http://www.cisca.org/images/9Wood%20-%20UW%20Paccar%20Hall%20001.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#brainstorm { 
+	background: url(http://www.brandonhall.com/blogs/wp-content/uploads/2013/09/classroom-1.jpg) 50% 0 no-repeat fixed; 
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#sticky { 
+	background: url(http://simpledeveloper.com/wp-content/uploads/2013/06/sticky-note-using-html5-web-storage.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#interviews { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#communication { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#ideas { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#makePrototype { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#lowPrototype { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#changePrototype { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#test2 { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#spec1 { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#groupChange { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#spec2 { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#video1 { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#finalFeedback { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+.intro{
+	top: 291px; 
+	color:white;
+	text-align: center;
+	margin-top: -100px;
+	font-size: 150%;
+}
+
+.table{
+	font-size: 200%;
+	color:white;
+	text-align: center;
+}
+
+.col-md-4{
+		background-color: black;
+	font-size: 150%;
+	color:white;
+	text-align: center;
+}
+
+
+.first{
+	background-color: black;
+	font-size: 150%;
+	color:white;
+	text-align: center;
+}
+
+.brainstorm1{
+	background-color: black;
+	font-size: 150%;
+	color:white;
+	text-align: center;
+}
