@@ -152,6 +152,16 @@ body{
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
 }
 
+#script2 { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
 #spec2 { 
 	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
 	height: 1000px;
@@ -203,6 +213,13 @@ body{
 	text-align: center;
 }
 
+.col-md-3{
+		background-color: black;
+	font-size: 150%;
+	color:white;
+	text-align: center;
+}
+
 
 .first{
 	background-color: black;
@@ -216,4 +233,9 @@ body{
 	font-size: 150%;
 	color:white;
 	text-align: center;
+}
+
+.scriptBack{
+	background-color:purple;
+	color:yellow;
 }
