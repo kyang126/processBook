@@ -9,6 +9,7 @@
 
 
 body{
+	background: url(http://60daymba.com/wp-content/uploads/2013/01/finish-line.jpg);
 	margin:0;
 	padding:0;
 }
@@ -54,7 +55,7 @@ body{
 
 #sticky { 
 	background: url(http://simpledeveloper.com/wp-content/uploads/2013/06/sticky-note-using-html5-web-storage.jpg) 50% 0 no-repeat fixed; 
-	height: 1000px;
+	height: 700px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -84,7 +85,7 @@ body{
 
 #ideas { 
 	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
-	height: 1000px;
+	height: 900px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -94,7 +95,7 @@ body{
 
 #makePrototype { 
 	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
-	height: 1000px;
+	height: 600px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -104,7 +105,7 @@ body{
 
 #lowPrototype { 
 	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
-	height: 1000px;
+	height: 750px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -134,7 +135,7 @@ body{
 
 #spec1 { 
 	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
-	height: 1000px;
+	height: 650px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -153,8 +154,8 @@ body{
 }
 
 #script2 { 
-	background: url(http://www.parkinglotstripingga.com/parking%20lot%20striping%20letters%20emi.jpg) 50% 0 no-repeat fixed; 
-	height: 1000px;
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 600px;
 	margin: 0 auto; 
     width: 100%; 
     max-width: 1920px; 
@@ -193,7 +194,7 @@ body{
 }
 
 #conclusion { 
-	background: url(http://60daymba.com/wp-content/uploads/2013/01/finish-line.jpg) 50% 0 no-repeat fixed; 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
@@ -252,4 +253,10 @@ body{
 
 .noBackground{
 	background-color:none;
+	background:none;
+}
+
+.images{
+	text-align: center;
+	margin:0 auto;
 }
