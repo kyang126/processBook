@@ -231,8 +231,8 @@ body{
 }
 
 .scriptBack{
-	background-color:purple;
-	color:yellow;
+	background-color:black;
+	color:white;
 }
 
 .noBackground{
@@ -244,5 +244,8 @@ body{
 	text-align: center;
 	margin:0 auto;
 }
+
+
+
 
 
