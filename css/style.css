@@ -1,12 +1,3 @@
-/**
- * Parallax Scrolling Tutorial
- * For NetTuts+
- *  
- * Author: Mohiuddin Parekh
- *	http://www.mohi.me
- * 	@mohiuddinparekh   
- */
-
 
 body{
 	background: url(http://60daymba.com/wp-content/uploads/2013/01/finish-line.jpg);
@@ -25,7 +16,7 @@ body{
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
 }
 #about { 
-	background: url(../images/about.jpg) 50% 0 no-repeat fixed; 
+	background: url(http://upload.wikimedia.org/wikipedia/commons/8/80/University_of_Washington_Quad,_Spring_2007.jpg) 50% 0 no-repeat fixed; 
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
@@ -44,14 +35,6 @@ body{
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
 }
 
-#brainstorm { 
-	background: url(http://www.cisca.org/images/9Wood%20-%20UW%20Paccar%20Hall%20001.jpg) 50% 0 no-repeat fixed; 
-	margin: 0 auto; 
-    width: 100%; 
-    max-width: 1920px; 
-    position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
-}
 
 #sticky { 
 	background: url(http://www.cisca.org/images/9Wood%20-%20UW%20Paccar%20Hall%20001.jpg) 50% 0 no-repeat fixed; 
@@ -74,7 +57,7 @@ body{
 }
 
 #communication { 
-	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	background: url(http://www.cisca.org/images/9Wood%20-%20UW%20Paccar%20Hall%20001.jpg) 50% 0 no-repeat fixed; 
 	height: 1000px;
 	margin: 0 auto; 
     width: 100%; 
@@ -153,15 +136,6 @@ body{
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
 }
 
-#script2 { 
-	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
-	height: 600px;
-	margin: 0 auto; 
-    width: 100%; 
-    max-width: 1920px; 
-    position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
-}
 
 #spec2 { 
 	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
@@ -174,6 +148,16 @@ body{
 }
 
 #video1 { 
+	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
+	height: 1000px;
+	margin: 0 auto; 
+    width: 100%; 
+    max-width: 1920px; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
+
+#lowPrototype { 
 	background: url(http://www.bullshift.net/data/images/2013/10/theroadtobonneville-2560x1600.jpg) 50% 0 no-repeat fixed; 
 	height: 1000px;
 	margin: 0 auto; 
@@ -258,5 +242,10 @@ body{
 
 .images{
 	text-align: center;
+	margin:0 auto;
+}
+
+img{
+	text-align:center;
 	margin:0 auto;
 }
